@@ -1,6 +1,6 @@
 # Sistema de Biblioteca
 
-Este é um sistema de biblioteca simples para gerenciar empréstimos de livros, cadastro de usuários e controle de devolução. O sistema foi desenvolvido em Java e usa um banco de dados relacional (como MySQL ou PostgreSQL) para armazenar as informações.
+Este é um sistema de biblioteca simples para gerenciar empréstimos de livros, cadastro de usuários e controle de devolução. O sistema foi desenvolvido em Java e usa um banco de dados relacional  PostgreSQL para armazenar as informações.
 
 ## Funcionalidades
 
