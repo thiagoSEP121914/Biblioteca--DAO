@@ -9,7 +9,7 @@ public interface EmprestimoDao {
 
     Emprestimo findEmprestimoById (Integer id);
     List<Emprestimo> findaAll ();
-    void addEmprestimo (Livro obj);
-    void updateEmprestimo (Livro obj);
+    void addEmprestimo (Emprestimo obj);
+    void updateEmprestimo (Emprestimo obj);
     void removEmprestimo (Integer id);
 }

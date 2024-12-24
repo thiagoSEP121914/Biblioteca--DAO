@@ -126,7 +126,6 @@ public class UsuarioDaoJbdc implements UsuarioDao {
         PreparedStatement ps = null;
         String sql = "DELETE FROM usuarios "
                      +"WHERE id_usuario = ?";
-
         try {
             ps = conn.prepareStatement(sql);
             ps.setInt(1,id);
